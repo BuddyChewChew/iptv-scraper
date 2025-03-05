@@ -75,6 +75,9 @@ https://ddy6new.koskoros.ru/ddy6/premium206/mono.m3u8|Referer=https://pkpakiplay
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/animal-planet.png",Animal Planet
 https://nfsnew.koskoros.ru/nfs/premium304/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
+#EXTINF:-1 tvg-id="Antena.3.es" group-title="SPAIN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/antena-3.png",Antena 3 Spain
+https://dokko1new.koskoros.ru/dokko1/premium531/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
 #EXTINF:-1 tvg-id="test" group-title="BOSNIA AND HERZEGOVINA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png",Arena Sport 1 BiH
 https://windnew.koskoros.ru/wind/premium579/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
@@ -269,6 +272,9 @@ https://dokko1new.koskoros.ru/dokko1/premium566/mono.m3u8|Referer=https://pkpaki
 
 #EXTINF:-1 tvg-id="CANAL+.Seriale.pl" group-title="POLAND" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-seriale.png",Canal+ Seriale Poland
 https://windnew.koskoros.ru/wind/premium570/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
+#EXTINF:-1 tvg-id="test" group-title="AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png",Canal+ Sport 1 Afrique
+https://ddy6new.koskoros.ru/ddy6/premium486/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
 #EXTINF:-1 tvg-id="test" group-title="AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png",Canal+ Sport 2 Afrique
 https://ddy6new.koskoros.ru/ddy6/premium487/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
@@ -1607,6 +1613,9 @@ https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8|Referer=https://pkpakip
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-3-portugal.png",Sport TV3 Portugal
 https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-4-portugal.png",Sport TV4 Portugal
+https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-5-portugal.png",Sport TV5 Portugal
 https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
