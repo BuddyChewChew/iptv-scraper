@@ -342,12 +342,6 @@ https://windnew.koskoros.ru/wind/premium477/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium478/mono.m3u8
 
-#EXTINF:-1 tvg-id="Bandsports.HD.br" group-title="BRAZIL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/band-sports.png",Bandsports Brazil
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium275/mono.m3u8
-
 #EXTINF:-1 tvg-id="BarcaTV(Catalan).es" group-title="SPAIN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/barca-tv.png",Barca TV Spain
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -389,12 +383,6 @@ https://nfsnew.koskoros.ru/nfs/premium307/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium747/mono.m3u8
-
-#EXTINF:-1 tvg-id="C.More.Hits.se" group-title="SWEDEN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/c-more.png",C More Hits Sweden
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium813/mono.m3u8
 
 #EXTINF:-1 tvg-id="C.More.Series.se" group-title="SWEDEN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/c-more.png",C More Series Sweden
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -840,12 +828,6 @@ https://dokko1new.koskoros.ru/dokko1/premium538/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium43/mono.m3u8
 
-#EXTINF:-1 tvg-id="DR1.dk" group-title="DENMARK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dr1.png",DR1 Denmark
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium801/mono.m3u8
-
 #EXTINF:-1 tvg-id="DR2.dk" group-title="DENMARK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dr2.png",DR2 Denmark
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -857,12 +839,6 @@ https://dokko1new.koskoros.ru/dokko1/premium802/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium827/mono.m3u8
-
-#EXTINF:-1 tvg-id="Mzansi.Magic.HD.za" group-title="SOUTH AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mzansi-magic.png",DSTV Mzansi Magic
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium786/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kyk.NET.&amp;.Kie.HD.za" group-title="SOUTH AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/kyknet-and-kie.png",DSTV kykNET & kie
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -1788,12 +1764,6 @@ https://nfsnew.koskoros.ru/nfs/premium829/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium646/mono.m3u8
 
-#EXTINF:-1 tvg-id="MDR.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mdr-de.png",MDR DE
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium733/mono.m3u8
-
 #EXTINF:-1 tvg-id="Me.TV.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/metv-usa.png",METV USA
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -1925,12 +1895,6 @@ https://ddy6new.koskoros.ru/ddy6/premium474/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium475/mono.m3u8
-
-#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/monumental-sports-network.png",Monumental Sports Network
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium924/mono.m3u8
 
 #EXTINF:-1 tvg-id="Motor.Trend.HD.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/motor-trend.png",Motor Trend
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -2243,18 +2207,6 @@ https://ddy6new.koskoros.ru/ddy6/premium612/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium331/mono.m3u8
-
-#EXTINF:-1 tvg-id="test" group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/orange-sport-1-ro.png",Orange Sport 1 Romania
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.koskoros.ru/wiki/premium439/mono.m3u8
-
-#EXTINF:-1 tvg-id="test" group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/orange-sport-2-ro.png",Orange Sport 2 Romania
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.koskoros.ru/wiki/premium440/mono.m3u8
 
 #EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/oxygen-true-crime.png",Oxygen True Crime
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -2610,12 +2562,6 @@ https://dokko1new.koskoros.ru/dokko1/premium621/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium738/mono.m3u8
 
-#EXTINF:-1 tvg-id="SWR/SR.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/swr-de.png",SWR DE
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium735/mono.m3u8
-
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/syfy-usa.png",SYFY USA
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -2626,7 +2572,7 @@ https://zekonew.koskoros.ru/zeko/premium373/mono.m3u8
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium294/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium294/mono.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-2-usa.png",Showtime 2 USA (SHO2) USA
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -2645,12 +2591,6 @@ https://nfsnew.koskoros.ru/nfs/premium794/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium795/mono.m3u8
-
-#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-next-usa.png",Showtime Next (SHO Next) USA
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium796/mono.m3u8
 
 #EXTINF:-1 tvg-id="SHOXBET.-.Eastern.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/showtime-shoxbet-usa.png",Showtime SHOxBET USA
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -2687,6 +2627,12 @@ https://windnew.koskoros.ru/wind/premium683/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium362/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport..251.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-1.png",Sky Calcio 1 (251) Italy
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium871/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Sport..252.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-2.png",Sky Calcio 2 (252) Italy
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -2837,12 +2783,6 @@ https://ddy6new.koskoros.ru/ddy6/premium868/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium679/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-uno-plus24-it.png",Sky Cinema Uno +24 Italy
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium863/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-uno-it.png",Sky Cinema Uno Italy
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -3198,12 +3138,6 @@ https://zekonew.koskoros.ru/zeko/premium146/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 tvg-id="Sport.5.Stars.HD.(59).il" group-title="ISRAEL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-5-stars-israel.png",Sport 5 Star Israel
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
-
 #EXTINF:-1 tvg-id="test" group-title="SERBIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-klub-1-serbia.png",Sport Klub 1 Serbia
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -3239,12 +3173,6 @@ https://windnew.koskoros.ru/wind/premium453/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium49/mono.m3u8
-
-#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-2-portugal.png",Sport TV2 Portugal
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium74/mono.m3u8
 
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" group-title="PORTUGAL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sport-tv-3-portugal.png",Sport TV3 Portugal
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -3354,12 +3282,6 @@ https://windnew.koskoros.ru/wind/premium483/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium267/mono.m3u8
 
-#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" group-title="INDIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/star-sports-1-hindi-in.png",Star Sports Hindi IN
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium268/mono.m3u8
-
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/starz-us.png",Starz
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -3449,12 +3371,6 @@ https://ddy6new.koskoros.ru/ddy6/premium414/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium421/mono.m3u8
-
-#EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-tennis.png",SuperSport Tennis
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium423/mono.m3u8
 
 #EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-variety-1.png",SuperSport Variety 1
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
@@ -3816,12 +3732,6 @@ https://zekonew.koskoros.ru/zeko/premium704/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium705/mono.m3u8
 
-#EXTINF:-1 tvg-id="test" group-title="FRANCE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png",Tennis+ 7
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium706/mono.m3u8
-
 #EXTINF:-1 tvg-id="test" group-title="FRANCE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/Tennisplus.png",Tennis+ 8
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -3864,12 +3774,6 @@ https://windnew.koskoros.ru/wind/premium340/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium341/mono.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/usa-network.png",USA Network
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium343/mono.m3u8
-
 #EXTINF:-1 tvg-id="UniMás..-.Network.Pacific.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/unimas-us.png",Unimas
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -3893,12 +3797,6 @@ https://windnew.koskoros.ru/wind/premium132/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium816/mono.m3u8
-
-#EXTINF:-1 tvg-id="V.Film.Premiere.se" group-title="SWEDEN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/v-film-premiere-sweden.png",V Film Premiere
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium815/mono.m3u8
 
 #EXTINF:-1 tvg-id="V.Sport.Motor.se" group-title="SWEDEN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/v-sport-motor-sweden.png",V Sport Motor Sweden
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
