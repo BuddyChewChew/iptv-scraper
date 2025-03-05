@@ -435,6 +435,9 @@ https://windnew.koskoros.ru/wind/premium786/mono.m3u8|Referer=https://pkpakiplay
 #EXTINF:-1 tvg-id="Kyk.NET.&amp;.Kie.HD.za" group-title="SOUTH AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/kyknet-and-kie.png",DSTV kykNET & kie
 https://ddy6new.koskoros.ru/ddy6/premium828/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
+#EXTINF:-1 tvg-id="Dave(src01).uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dave.png",Dave
+https://dokko1new.koskoros.ru/dokko1/premium348/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
 #EXTINF:-1 tvg-id="Destination.America.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/destination-america.png",Destination America
 https://dokko1new.koskoros.ru/dokko1/premium651/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
@@ -909,6 +912,9 @@ https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8|Referer=https://pkpakiplay
 #EXTINF:-1 tvg-id="MSNBC.USA.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/msnbc.png",MSNBC
 https://windnew.koskoros.ru/wind/premium327/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
+#EXTINF:-1 tvg-id="MTV.HD.uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png",MTV UK
+https://zekonew.koskoros.ru/zeko/premium367/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png",MTV USA
 https://nfsnew.koskoros.ru/nfs/premium371/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
@@ -1347,6 +1353,9 @@ https://windnew.koskoros.ru/wind/premium873/mono.m3u8|Referer=https://pkpakiplay
 #EXTINF:-1 tvg-id="Sky.Sport..254.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-4.png",Sky Calcio 4 (254) Italy
 https://windnew.koskoros.ru/wind/premium874/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
+#EXTINF:-1 tvg-id="Sky.Sport..255.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-5.png",Sky Calcio 5 (255) Italy
+https://windnew.koskoros.ru/wind/premium875/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
 #EXTINF:-1 tvg-id="Sky.Sport..256.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-6.png",Sky Calcio 6 (256) Italy
 https://windnew.koskoros.ru/wind/premium876/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
@@ -1541,6 +1550,9 @@ https://windnew.koskoros.ru/wind/premium884/mono.m3u8|Referer=https://pkpakiplay
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-tennis-uk.png",Sky Sports Tennis UK
 https://windnew.koskoros.ru/wind/premium46/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
+https://windnew.koskoros.ru/wind/premium881/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-witness-uk.png",Sky Witness HD
 https://ddy6new.koskoros.ru/ddy6/premium361/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz

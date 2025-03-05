@@ -870,6 +870,12 @@ https://windnew.koskoros.ru/wind/premium786/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium828/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dave(src01).uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dave.png",Dave
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium348/mono.m3u8
+
 #EXTINF:-1 tvg-id="Destination.America.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/destination-america.png",Destination America
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -1818,6 +1824,12 @@ https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium327/mono.m3u8
 
+#EXTINF:-1 tvg-id="MTV.HD.uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png",MTV UK
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium367/mono.m3u8
+
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/mtv.png",MTV USA
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -2694,6 +2706,12 @@ https://windnew.koskoros.ru/wind/premium873/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium874/mono.m3u8
 
+#EXTINF:-1 tvg-id="Sky.Sport..255.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-5.png",Sky Calcio 5 (255) Italy
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium875/mono.m3u8
+
 #EXTINF:-1 tvg-id="Sky.Sport..256.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-calcio-6.png",Sky Calcio 6 (256) Italy
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
@@ -3083,6 +3101,12 @@ https://windnew.koskoros.ru/wind/premium884/mono.m3u8
 #EXTVLCOPT:http-origin=https://pkpakiplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-uno-it.png",Sky UNO Italy
+#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium881/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-witness-uk.png",Sky Witness HD
 #EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
