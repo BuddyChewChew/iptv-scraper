@@ -720,6 +720,9 @@ https://zekonew.koskoros.ru/zeko/premium775/mono.m3u8|Referer=https://pkpakiplay
 #EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/freeform.png",Freeform
 https://zekonew.koskoros.ru/zeko/premium301/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
+#EXTINF:-1 tvg-id="GOL.PLAY.es" group-title="SPAIN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/gol-play-spain.png",GOL PLAY Spain
+https://dokko1new.koskoros.ru/dokko1/premium530/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png",GOLF Channel USA
 https://zekonew.koskoros.ru/zeko/premium318/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
