@@ -54,6 +54,9 @@ https://dokko1new.koskoros.ru/dokko1/premium601/mono.m3u8|Referer=https://pkpaki
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/adult-swim.png",Adult Swim
 https://ddy6new.koskoros.ru/ddy6/premium295/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
+#EXTINF:-1 tvg-id="test" group-title="QATAR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-four.png",Alkass Four
+https://dokko1new.koskoros.ru/dokko1/premium784/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
+
 #EXTINF:-1 tvg-id="test" group-title="QATAR" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-one.png",Alkass One
 https://dokko1new.koskoros.ru/dokko1/premium781/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://pkpakiplay.xyz
 
