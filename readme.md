@@ -40,5 +40,5 @@
 
 
 
-Join our discord: https://discord.gg/aVuhm62hFU Visit (#iptv)
+Join our discord: https://discord.gg/aVuhm62hFU (#iptv)
 
