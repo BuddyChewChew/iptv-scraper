@@ -1470,12 +1470,6 @@ https://zekonew.koskoros.ru/zeko/premium775/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium301/mono.m3u8
 
-#EXTINF:-1 tvg-id="GOL.PLAY.es" group-title="SPAIN" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/gol-play-spain.png",GOL PLAY Spain
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium530/mono.m3u8
-
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/golf-channel.png",GOLF Channel USA
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -1835,6 +1829,12 @@ https://ddy6new.koskoros.ru/ddy6/premium299/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium770/mono.m3u8
+
+#EXTINF:-1 tvg-id="test" group-title="RUSSIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-boets-ru.png",Match Boets Russia
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium395/mono.m3u8
 
 #EXTINF:-1 tvg-id="test" group-title="RUSSIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-football-1-ru.png",Match Football 1 Russia
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -3382,7 +3382,7 @@ https://windnew.koskoros.ru/wind/premium420/mono.m3u8
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium368/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium368/mono.m3u8
 
 #EXTINF:-1 tvg-id="test" group-title="SOUTH AFRICA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-golf.png",SuperSport Golf
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
