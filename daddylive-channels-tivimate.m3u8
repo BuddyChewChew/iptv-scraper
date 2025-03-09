@@ -441,9 +441,6 @@ https://windnew.koskoros.ru/wind/premium465/mono.m3u8|Referer=https://newzar.xyz
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-1.png",Digi Sport 1 Romania
 https://top2new.koskoros.ru/top2/premium400/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
-#EXTINF:-1 tvg-id="Digi.Sport.2.ro" group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-2.png",Digi Sport 2 Romania
-https://top2new.koskoros.ru/top2/premium401/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
-
 #EXTINF:-1 tvg-id="Digi.Sport.3.ro" group-title="ROMANIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-3.png",Digi Sport 3 Romania
 https://top2new.koskoros.ru/top2/premium402/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
@@ -582,6 +579,9 @@ https://ddy6new.koskoros.ru/ddy6/premium772/mono.m3u8|Referer=https://newzar.xyz
 #EXTINF:-1 tvg-id="Eurosport.2.bg" group-title="BULGARIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png",Eurosport 2 Bulgaria
 https://windnew.koskoros.ru/wind/premium470/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="FRANCE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png",Eurosport 2 France
+https://ddy6new.koskoros.ru/ddy6/premium773/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
+
 #EXTINF:-1 tvg-id="FETV.(Family.Entertainment.Television).us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fetv.png",FETV - Family Entertainment Television
 https://dokko1new.koskoros.ru/dokko1/premium751/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
@@ -689,9 +689,6 @@ https://dokko1new.koskoros.ru/dokko1/premium568/mono.m3u8|Referer=https://newzar
 
 #EXTINF:-1 tvg-id="Fox.Business.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-business.png",Fox Business
 https://ddy6new.koskoros.ru/ddy6/premium297/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
-
-#EXTINF:-1 tvg-id="FoxCricket.au" group-title="AUSTRALIA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-cricket.png",Fox Cricket
-https://ddy6new.koskoros.ru/ddy6/premium369/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
 #EXTINF:-1 tvg-id="Fox.News.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-news.png",Fox News
 https://zekonew.koskoros.ru/zeko/premium347/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
@@ -812,6 +809,9 @@ https://windnew.koskoros.ru/wind/premium324/mono.m3u8|Referer=https://newzar.xyz
 
 #EXTINF:-1 tvg-id="Italia.1.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/italia-1-it.png",Italia 1 Italy
 https://windnew.koskoros.ru/wind/premium854/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
+
+#EXTINF:-1 tvg-id="kabel.eins.de" group-title="GERMANY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/kabel-eins.png",Kabel Eins (Kabel 1) DE
+https://ddy6new.koskoros.ru/ddy6/premium731/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
 #EXTINF:-1 tvg-id="Kanal4.dk" group-title="DENMARK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/kanal-4-denmark.png",Kanal 4 Denmark
 https://dokko1new.koskoros.ru/dokko1/premium803/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
@@ -1170,6 +1170,9 @@ https://dokko1new.koskoros.ru/dokko1/premium839/mono.m3u8|Referer=https://newzar
 #EXTINF:-1 tvg-id="RDS.Info.ca" group-title="CANADA" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rds-info-ca.png",RDS Info CA
 https://dokko1new.koskoros.ru/dokko1/premium841/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
+#EXTINF:-1 tvg-id="RMC.Sport.1.fr" group-title="FRANCE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-1-fr.png",RMC Sport 1 France
+https://zekonew.koskoros.ru/zeko/premium119/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
+
 #EXTINF:-1 tvg-id="RMC.Sport.2.fr" group-title="FRANCE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/rmc-sport-2-fr.png",RMC Sport 2 France
 https://ddy6new.koskoros.ru/ddy6/premium120/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
@@ -1349,6 +1352,9 @@ https://windnew.koskoros.ru/wind/premium678/mono.m3u8|Referer=https://newzar.xyz
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-drama-it.png",Sky Cinema Drama Italy
 https://windnew.koskoros.ru/wind/premium867/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" group-title="UNITED KINGDOM" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-drama-uk.png",Sky Cinema Drama UK
+https://windnew.koskoros.ru/wind/premium680/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" group-title="ITALY" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-cinema-due-plus24-it.png",Sky Cinema Due +24 Italy
 https://windnew.koskoros.ru/wind/premium866/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
@@ -1878,6 +1884,9 @@ https://zekonew.koskoros.ru/zeko/premium707/mono.m3u8|Referer=https://newzar.xyz
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-food-network-us.png",The Food Network
 https://zekonew.koskoros.ru/zeko/premium384/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
+#EXTINF:-1 tvg-id="test" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-hallmark-us.png",The Hallmark
+https://windnew.koskoros.ru/wind/premium680/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
+
 #EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" group-title="UNITED STATES" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/the-hallmark-channel-us.png",The Hallmark Channel
 https://zekonew.koskoros.ru/zeko/premium320/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
@@ -2084,9 +2093,6 @@ https://ddy6new.koskoros.ru/ddy6/premium99/mono.m3u8|Referer=https://newzar.xyz/
 
 #EXTINF:-1 tvg-id="test" group-title="OTHERS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-1.png",beIN Sports MENA English 1
 https://windnew.koskoros.ru/wind/premium61/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
-
-#EXTINF:-1 tvg-id="test" group-title="OTHERS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-2.png",beIN Sports MENA English 2
-https://zekonew.koskoros.ru/zeko/premium90/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
 
 #EXTINF:-1 tvg-id="test" group-title="OTHERS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-mena-english-3.png",beIN Sports MENA English 3
 https://windnew.koskoros.ru/wind/premium46/mono.m3u8|Referer=https://newzar.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://newzar.xyz
