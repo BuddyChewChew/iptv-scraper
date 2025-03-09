@@ -1,5 +1,5 @@
 ### M3U8 Playlist
-- ```https://roxiestreams.vercel.app/roxiestreams```
+- ```https://roxiestreams-scraper.vercel.app/roxiestreams```
 - ```https://tvpass-scraper.vercel.app/tvpass```
 - ```https://streambtw-scraper.vercel.app/streambtw```
 - ```https://nbawebcast-scraper.vercel.app/nbawebcast```
