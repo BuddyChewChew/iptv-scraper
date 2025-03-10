@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Turkey - 1. Lig : Pendikspor vs Amed SK [BEIN SPORTS 2 TURKEY]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Turkey - 1. Lig : Keçiörengücü vs BB Erzurumspor [BEIN SPORTS 2 TURKEY]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -11,6 +11,12 @@ https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium103/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Turkey - 1. Lig : Pendikspor vs Amed SK [BEIN SPORTS 2 TURKEY]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Bulgaria - Parva Liga : Septemvri Sofia vs Hebar 1918 [DIEMA SPORT BULGARIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -23,12 +29,6 @@ https://windnew.koskoros.ru/wind/premium465/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Turkey - 1. Lig : Keçiörengücü vs BB Erzurumspor [BEIN SPORTS 2 TURKEY]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : Botoşani vs Unirea Slobozia [DIGI SPORT 1 ROMANIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -48,83 +48,11 @@ https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium431/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Israel - Liga Leumit : Hapoel Ra'anana vs Hapoel Rishon LeZion [5 STARS ISRAEL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
-
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Israel - Liga Leumit : Kafr Qasim vs Maccabi Herzliya [SPORT 5 LIVE ISRAEL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium146/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : UTA Arad vs Dinamo Bucureşti [DIGI SPORT 1 ROMANIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/premium400/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : UTA Arad vs Dinamo Bucureşti [PRIMA SPORT 1 ROMANIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : UTA Arad vs Dinamo Bucureşti [ARENA SPORT 4 SERBIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Sweden - Svenska Cupen : Malmö FF vs Elfsborg [TV4 FOTBALL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium747/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [ASTRO FOOTBALL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [TV4 SPORTKANALEN]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium707/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [NOVA SPORT BULGARIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium468/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [SPORT1+ DE]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium640/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [ESPN4 BRAZIL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium85/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [SPORT KLUB HD SERBIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium453/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [SPORT 2 ISRAEL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Israel - Liga Leumit : Hapoel Nazareth Illit vs Bnei Yehuda [5 PLUS ISRAEL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -132,23 +60,23 @@ https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Frauen-Bundesliga : Werder Bremen vs Hoffenheim [DAZN1 DE]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Israel - Liga Leumit : Hapoel Ra'anana vs Hapoel Rishon LeZion [5 STARS ISRAEL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Frauen-Bundesliga : Werder Bremen vs Hoffenheim [VODAFONE SPORT]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russia - FNL : Baltika vs Rotor Volgograd [MATCH PREMIER RUSSIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium260/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium573/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Frauen-Bundesliga : Werder Bremen vs Hoffenheim [SPORT1 DE]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russia - FNL : Baltika vs Rotor Volgograd [MATCH! TV RUSSIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium641/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Super Lig : Beşiktaş vs Gaziantep FK [BEIN SPORTS 1 TURKEY]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -192,29 +120,41 @@ https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium103/mono.m3u8
 
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Sweden - Svenska Cupen : Malmö FF vs Elfsborg [TV4 FOTBALL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium747/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Frauen-Bundesliga : Werder Bremen vs Hoffenheim [DAZN1 DE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Frauen-Bundesliga : Werder Bremen vs Hoffenheim [VODAFONE SPORT]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium260/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Frauen-Bundesliga : Werder Bremen vs Hoffenheim [SPORT1 DE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium641/mono.m3u8
+
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Turkey - 1. Lig : Kocaelispor vs Ankaragücü [BEIN SPORTS 2 TURKEY]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russia - FNL : Baltika vs Rotor Volgograd [MATCH PREMIER RUSSIA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Denmark - Super Liga : Randers vs Brøndby [TV2 SPORT X DENMARK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium573/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russia - FNL : Baltika vs Rotor Volgograd [MATCH! TV RUSSIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Italy - Serie A (women) : Como vs Sassuolo [FOX SOCCER PLUS]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium756/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium808/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Sadd vs Al Wasl [DIEMA SPORT 3 BULGARIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -222,11 +162,71 @@ https://ddy6new.koskoros.ru/ddy6/premium756/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium467/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Denmark - Super Liga : Randers vs Brøndby [TV2 SPORT X DENMARK]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Italy - Serie A (women) : Como vs Sassuolo [FOX SOCCER PLUS]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium808/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium756/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [ASTRO FOOTBALL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium124/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [TV4 SPORTKANALEN]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium707/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [NOVA SPORT BULGARIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium468/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [SPORT1+ DE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium640/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [ESPN4 BRAZIL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium85/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [SPORT KLUB HD SERBIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Nassr vs Esteghlal [SPORT 2 ISRAEL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : UTA Arad vs Dinamo Bucureşti [DIGI SPORT 1 ROMANIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top2new.koskoros.ru/top2/premium400/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : UTA Arad vs Dinamo Bucureşti [PRIMA SPORT 1 ROMANIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.koskoros.ru/wiki/premium583/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Romania - Liga I : UTA Arad vs Dinamo Bucureşti [ARENA SPORT 4 SERBIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium581/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Poland - Ekstraklasa : Motor Lublin vs Legia Warszawa [SPORTDIGITAL FUSSBALL DE]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -257,18 +257,6 @@ https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium379/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Spain - Segunda Division : Burgos vs Albacete [LALIGA TV HYPERMOTION]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium539/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Spain - Segunda Division : Burgos vs Albacete [MAX SPORT 2 BULGARIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium473/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Italy - Serie A : Lazio vs Udinese [TNT SPORTS 1 UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -395,6 +383,42 @@ https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [BEIN SPORTS 1 FRANCE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [BEIN SPORTS 4 TURKEY]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium67/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [ARENA SPORT 3 SERBIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium431/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [BEIN SPORTS MENA 4]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Spain - Segunda Division : Burgos vs Albacete [LALIGA TV HYPERMOTION]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium539/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Spain - Segunda Division : Burgos vs Albacete [MAX SPORT 2 BULGARIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium473/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",England - Premier League : West Ham United vs Newcastle United [USA NETWORK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -552,29 +576,29 @@ https://windnew.koskoros.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium140/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [BEIN SPORTS 1 FRANCE]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Chile - Primera Division : Unión Española vs Universidad Chile [TNT SPORTS PREMIUM HD]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium642/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [BEIN SPORTS 4 TURKEY]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Primeira Liga : Famalicão vs Rio Ave [SPORT TV1 PORTUGAL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium67/mono.m3u8
+https://windnew.koskoros.ru/wind/premium49/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [ARENA SPORT 3 SERBIA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Primeira Liga : Famalicão vs Rio Ave [GOLTV USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium431/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium597/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",France - Ligue 2 : Rodez vs Dunkerque [BEIN SPORTS MENA 4]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Primeira Liga : Famalicão vs Rio Ave [COSMOTE SPORT 8 GREECE]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium629/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Spain - La Liga : Espanyol vs Girona [M+ LALIGA TV]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -702,35 +726,11 @@ https://ddy6new.koskoros.ru/ddy6/premium415/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Primeira Liga : Famalicão vs Rio Ave [SPORT TV1 PORTUGAL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium49/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Primeira Liga : Famalicão vs Rio Ave [GOLTV USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium597/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Primeira Liga : Famalicão vs Rio Ave [COSMOTE SPORT 8 GREECE]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium629/mono.m3u8
-
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Argentina - Primera División : Gimnasia La Plata vs Deportivo Riestra [ESPN PREMIUM ARGENTINA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium387/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Chile - Primera Division : Unión Española vs Universidad Chile [TNT SPORTS PREMIUM HD]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium642/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Uruguay - Primera Division : Wanderers vs Cerro Largo [VTV+ URUGUAY]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -786,36 +786,6 @@ https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil U20 Brasileiro : Fluminense U20 vs Atlético Mineiro U20 [SPORTV BRAZIL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium78/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Colombia - Primera A : Deportes Tolima vs Once Caldas [WIN+ FUTBOL COLOMBIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium392/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil - Campeonato Paulista A1 : Palmeiras vs São Paulo [ARENA SPORT 1 SERBIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil - Campeonato Paulista A1 : Palmeiras vs São Paulo [ARENA SPORT 3 CROATIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil - Campeonato Paulista A1 : Palmeiras vs São Paulo [SPORT 2 ISRAEL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
-
 #EXTINF:-1 group-title="CRICKET</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png",Women IPL : Gujarat Giants W vs Mumbai Indians W [WILLOW CRICKET]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -851,6 +821,36 @@ https://dokko1new.koskoros.ru/dokko1/premium591/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium368/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Colombia - Primera A : Deportes Tolima vs Once Caldas [WIN+ FUTBOL COLOMBIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium392/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil U20 Brasileiro : Fluminense U20 vs Atlético Mineiro U20 [SPORTV BRAZIL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium78/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil - Campeonato Paulista A1 : Palmeiras vs São Paulo [ARENA SPORT 1 SERBIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil - Campeonato Paulista A1 : Palmeiras vs São Paulo [ARENA SPORT 3 CROATIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Brazil - Campeonato Paulista A1 : Palmeiras vs São Paulo [SPORT 2 ISRAEL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
 
 #EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP Indian Wells Tournament (T2025): TBC [TENNIS CHANNEL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -942,17 +942,17 @@ https://zekonew.koskoros.ru/zeko/premium701/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium101/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png",College Softball : Auburn vs. Mississippi State University [SEC NETWORK USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8
-
 #EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png",College Softball : Texas vs. Ohio State [BTN USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium397/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/baseball-logo.png",College Softball : Auburn vs. Mississippi State University [SEC NETWORK USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8
 
 #EXTINF:-1 group-title="SNOOKER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/snooker-logo.png",Ultimate Pool Champions League | Group Stage [TNT SPORTS 2 UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -972,11 +972,23 @@ https://dokko1new.koskoros.ru/dokko1/premium588/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium491/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Arizona Diamondbacks vs Los Angeles Dodgers [SPECTRUM SPORTSNET LA]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Detroit Tigers vs New York Yankees [YES USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium764/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium763/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Detroit Tigers vs New York Yankees [BEIN SPORTS MAX 4 FRANCE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium494/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Detroit Tigers vs New York Yankees [FANDUEL SPORTS NETWORK WEST]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium891/mono.m3u8
 
 #EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Houston Astros vs Toronto Blue Jays [MLB NETWORK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1002,35 +1014,11 @@ https://windnew.koskoros.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium407/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Detroit Tigers vs New York Yankees [YES USA]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Arizona Diamondbacks vs Los Angeles Dodgers [SPECTRUM SPORTSNET LA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium763/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Detroit Tigers vs New York Yankees [BEIN SPORTS MAX 4 FRANCE]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium494/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Detroit Tigers vs New York Yankees [FANDUEL SPORTS NETWORK WEST]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium891/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs Pittsburgh Pirates [MASN USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium829/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs Pittsburgh Pirates [SPORTSNET PITTSBURGH]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium922/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium764/mono.m3u8
 
 #EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Colorado Rockies vs Los Angeles Angels [FANDUEL SPORTS NETWORK WEST]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1050,11 +1038,17 @@ https://windnew.koskoros.ru/wind/premium399/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium759/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Super League : Elitzur Maccabi Netanya vs Galil Elyon [SPORT 5 GOLD ISRAEL]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs Pittsburgh Pirates [MASN USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium148/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium829/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs Pittsburgh Pirates [SPORTSNET PITTSBURGH]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium922/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Süper Ligi : Manisa vs Anadolu Efes [ARENA SPORT 2 SERBIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1080,17 +1074,11 @@ https://dokko1new.koskoros.ru/dokko1/premium629/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium142/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",ABA League : KK Partizan Nis Belgrade vs. KK FMP Belgrade [ARENA PREMIUM 1 SERBIA]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Super League : Elitzur Maccabi Netanya vs Galil Elyon [SPORT 5 GOLD ISRAEL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",ABA League : KK Partizan Nis Belgrade vs. KK FMP Belgrade [ARENA SPORT 2 CROATIA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium148/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Romania Liga Nationala : Steaua CSM Bucuresti vs. CSU Sibiu [DIGI SPORT 3 ROMANIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1103,6 +1091,18 @@ https://top2new.koskoros.ru/top2/premium402/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",ABA League : KK Partizan Nis Belgrade vs. KK FMP Belgrade [ARENA PREMIUM 1 SERBIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium134/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",ABA League : KK Partizan Nis Belgrade vs. KK FMP Belgrade [ARENA SPORT 2 CROATIA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's Basketball Premier League : Maccabi Ashdod vs Lev Jerusalem [SPORT 5 PLUS ISRAEL]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1158,6 +1158,18 @@ https://ddy6new.koskoros.ru/ddy6/premium449/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium103/mono.m3u8
 
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Unrivaled Basketball : Rose Basketball Club vs Vinyl Basketball Club [TRUTV USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium341/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Unrivaled Basketball : Rose Basketball Club vs Vinyl Basketball Club [TNT USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium338/mono.m3u8
+
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Lega A : Virtus Bologna vs. Aquila Basket Trento [EUROSPORT 2 IT]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -1188,30 +1200,6 @@ https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium142/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Unrivaled Basketball : Rose Basketball Club vs Vinyl Basketball Club [TRUTV USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium341/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Unrivaled Basketball : Rose Basketball Club vs Vinyl Basketball Club [TNT USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium338/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball CAA Tournament, First Semifinal: Teams TBA [CBS SPORTS NETWORK USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball WCC Tournament : TBA vs Gonzaga [ESPN2 USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium45/mono.m3u8
-
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball TBA vs Saint Mary's (Calif.) [ESPN USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -1223,6 +1211,12 @@ https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball CAA Tournament, First Semifinal: Teams TBA [CBS SPORTS NETWORK USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball SoCon Tournament, Championship: Teams TBA [ESPN USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1236,7 +1230,7 @@ https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium316/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Sun Belt Tournament, Championship: Teams TBA [ESPN2 USA]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball WCC Tournament : TBA vs Gonzaga [ESPN2 USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1248,13 +1242,7 @@ https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball Big East Tournament, Championship: Teams TBA [FOX SPORTS 1 USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium39/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball Sun Belt Tournament, Championship: Teams TBA [ESPN2 USA]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Sun Belt Tournament, Championship: Teams TBA [ESPN2 USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -1265,6 +1253,30 @@ https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball Sun Belt Tournament, Championship: Teams TBA [ESPN2 USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball Big East Tournament, Championship: Teams TBA [FOX SPORTS 1 USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium39/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Philadelphia 76ers vs Atlanta Hawks [NBCS PHILADELPHIA USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium777/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Utah Jazz (AWAY) vs Boston Celtics (HOME) [NBCS BOSTON USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium754/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Los Angeles Lakers vs Brooklyn Nets [SPECTRUM SPORTSNET USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1314,18 +1326,6 @@ https://zekonew.koskoros.ru/zeko/premium707/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Utah Jazz (AWAY) vs Boston Celtics (HOME) [NBCS BOSTON USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium754/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Philadelphia 76ers vs Atlanta Hawks [NBCS PHILADELPHIA USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium777/mono.m3u8
-
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Washington Wizards vs Toronto Raptors [MONUMENTAL SPORTS NETWORK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -1349,6 +1349,36 @@ https://windnew.koskoros.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [MOVISTAR DEPORTES SPAIN]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium436/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [SPORT TV3 PORTUGAL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [BEIN SPORTS 2 FRANCE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [COSMOTE SPORT 7 GREECE]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [SPORT 5 LIVE ISRAEL]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium146/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Denver Nuggets vs Oklahoma City Thunder [NBA TV USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1392,35 +1422,29 @@ https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [MOVISTAR DEPORTES SPAIN]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [MSG USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium436/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [SPORT TV3 PORTUGAL]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [NBA TV USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium404/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [BEIN SPORTS 2 FRANCE]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [NBCS CALIFORNIA USA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8
+https://windnew.koskoros.ru/wind/premium755/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [COSMOTE SPORT 7 GREECE]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [TSN4]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Phoenix Suns vs Memphis Grizzlies [SPORT 5 LIVE ISRAEL]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium146/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Portland Trail Blazers vs Golden State Warriors [NBCS BAY AREA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1452,6 +1476,12 @@ https://windnew.koskoros.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium144/mono.m3u8
 
+#EXTINF:-1 group-title="CYCLING</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Tirreno-Adriatico | Stage 1 Men | Lido di Camaiore (ITT, 10km) [TNT SPORTS 1 UK]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
+
 #EXTINF:-1 group-title="CYCLING</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Paris-Nice | Stage 2 Men | Montesson - Bellegarde (183.9km) [TNT SPORTS 1 UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -1482,47 +1512,17 @@ https://ddy6new.koskoros.ru/ddy6/premium525/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium773/mono.m3u8
 
-#EXTINF:-1 group-title="CYCLING</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Tirreno-Adriatico | Stage 1 Men | Lido di Camaiore (ITT, 10km) [TNT SPORTS 1 UK]
+#EXTINF:-1 group-title="RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png",Live racing from Stratford and Taunton [RACING TV UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [MSG USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [NBA TV USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium404/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [NBCS CALIFORNIA USA]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium755/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : New York Knicks vs Sacramento Kings [TSN4]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium555/mono.m3u8
 
 #EXTINF:-1 group-title="RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png",Live racing from Plumpton and Newcastle [SKY SPORTS RACING UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium554/mono.m3u8
-
-#EXTINF:-1 group-title="RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/racing-logo.png",Live racing from Stratford and Taunton [RACING TV UK]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium555/mono.m3u8
 
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",KHL : Avtomobilist Yekaterinburg vs. CSKA Moscow [MATCH! TV RUSSIA]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1541,12 +1541,6 @@ https://windnew.koskoros.ru/wind/premium429/mono.m3u8
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Detroit Red Wings vs Ottawa Senators [TVA SPORTS]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium833/mono.m3u8
 
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Edmonton Oilers vs Buffalo Sabres [VIAPLAY SPORTS 2 UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1578,11 +1572,11 @@ https://ddy6new.koskoros.ru/ddy6/premium809/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 group-title="LACROSSE</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Women's College Lacrosse : Johns Hopkins vs. Syracuse [ESPNU USA]
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Detroit Red Wings vs Ottawa Senators [TVA SPORTS]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium316/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium833/mono.m3u8
 
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Toronto Maple Leafs vs Utah Hockey Club [VIAPLAY SPORTS 2 UK]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
@@ -1614,6 +1608,18 @@ https://ddy6new.koskoros.ru/ddy6/premium809/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
 
+#EXTINF:-1 group-title="LACROSSE</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Women's College Lacrosse : Johns Hopkins vs. Syracuse [ESPNU USA]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium316/mono.m3u8
+
+#EXTINF:-1 group-title="RUGBY UNION</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png",Varsity Cup '25: CUT vs Tuks [SUPERSPORT RUGBY]
+#EXTVLCOPT:http-referrer=https://newzar.xyz/
+#EXTVLCOPT:http-origin=https://newzar.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium421/mono.m3u8
+
 #EXTINF:-1 group-title="RUGBY UNION</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png",Varsity Cup '25: NWU vs UFS [SUPERSPORT RUGBY]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
@@ -1626,19 +1632,13 @@ https://zekonew.koskoros.ru/zeko/premium421/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8
 
-#EXTINF:-1 group-title="RUGBY UNION</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/rugby-logo.png",Varsity Cup '25: CUT vs Tuks [SUPERSPORT RUGBY]
-#EXTVLCOPT:http-referrer=https://newzar.xyz/
-#EXTVLCOPT:http-origin=https://newzar.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium421/mono.m3u8
-
-#EXTINF:-1 group-title="VOLLEYBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png",PlusLiga : GKS Katowicevs.Skra Belchatow Polsat [SPORT 1 POLAND]
+#EXTINF:-1 group-title="VOLLEYBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png",Orlen Liga Women : Volley Wroclaw vs. MKS Kalisz [POLSAT SPORT 1 POLAND]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium47/mono.m3u8
 
-#EXTINF:-1 group-title="VOLLEYBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png",Orlen Liga Women : Volley Wroclaw vs. MKS Kalisz [POLSAT SPORT 1 POLAND]
+#EXTINF:-1 group-title="VOLLEYBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png",PlusLiga : GKS Katowicevs.Skra Belchatow Polsat [SPORT 1 POLAND]
 #EXTVLCOPT:http-referrer=https://newzar.xyz/
 #EXTVLCOPT:http-origin=https://newzar.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
