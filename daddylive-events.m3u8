@@ -1,28 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Live From THE PLAYERS Episode 2 • Live [GOLF CHANNEL USA]
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Hell's Kitchen Season 13, Episode 12 [AXS TV USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium318/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Jeopardy! Season 41, Episode 132 [ABC NY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",My Brilliant Friend Season 3, Episode 1 [HBO ZONE USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium694/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Beyond the Gates Season 1, Episode 12 [CBSNY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium742/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Price Is Right Season 53, Episode 110 [CBSNY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -30,11 +12,35 @@ https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Hell's Kitchen Season 13, Episode 12 [AXS TV USA]
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Kelly Clarkson Show Season 6, Episode 107 [NBCNY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium742/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium769/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Beyond the Gates Season 1, Episode 12 [CBSNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Pictionary Season 3, Episode 107 [FOXNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",My Brilliant Friend Season 3, Episode 1 [HBO ZONE USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium694/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Live From THE PLAYERS Episode 2 • Live [GOLF CHANNEL USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Rubble &amp; Crew The Crew Builds a Kangaroo Safari [NICK JR USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -42,17 +48,11 @@ https://nfsnew.koskoros.ru/nfs/premium742/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium329/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Kelly Clarkson Show Season 6, Episode 107 [NBCNY USA]
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Jeopardy! Season 41, Episode 132 [ABC NY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium769/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Pictionary Season 3, Episode 107 [FOXNY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Kiff Season 1 [DISNEY CHANNEL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -66,23 +66,65 @@ https://zekonew.koskoros.ru/zeko/premium312/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium314/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",7 Little Johnstons Season 15 [TLC USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium337/mono.m3u8
-
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Moonshiners Season 14, Episode 16 [DISCOVERY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium313/mono.m3u8
 
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",7 Little Johnstons Season 15 [TLC USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium337/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Chopped Season 61, Episode 10 [THE FOOD NETWORK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium384/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Kitchen Nightmares Season 2, Episode 10 [FOX USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium54/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Kitchen Nightmares Season 2, Episode 10 [FOXNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
+
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Real Housewives of Beverly Hills Season 14, Episode 15 [BRAVO USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium307/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Will Trent Season 3, Episode 9 [ABC NY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Will Trent Season 3, Episode 9 [ABC USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium51/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",St. Denis Medical Season 1, Episode 14 [NBCNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium769/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",St. Denis Medical Season 1, Episode 14 [NBC USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium53/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Fixer to Fabulous Season 7, Episode 10 [HGTV USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -108,18 +150,6 @@ https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium52/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",St. Denis Medical Season 1, Episode 14 [NBCNY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium769/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",St. Denis Medical Season 1, Episode 14 [NBC USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium53/mono.m3u8
-
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Body Cam: On the Scene Season 5, Episode 2 [ID USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -132,53 +162,11 @@ https://windnew.koskoros.ru/wind/premium324/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium371/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Will Trent Season 3, Episode 9 [ABC NY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Will Trent Season 3, Episode 9 [ABC USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium51/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Kitchen Nightmares Season 2, Episode 10 [FOX USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium54/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Kitchen Nightmares Season 2, Episode 10 [FOXNY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Chopped Season 61, Episode 10 [THE FOOD NETWORK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium384/mono.m3u8
-
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Night Court Season 3, Episode 12 [NBC USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium53/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Tiny House Nation: Memory Lane Season 1, Episode 4 [FYI USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium665/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Help! I'm in a Secret Relationship! Season 3, Episode 22 [MTV USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium371/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Port Protection Alaska Season 8, Episode 1 [NATIONAL GEOGRAPHIC (NGC)]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -186,11 +174,29 @@ https://nfsnew.koskoros.ru/nfs/premium371/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium328/mono.m3u8
 
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Help! I'm in a Secret Relationship! Season 3, Episode 22 [MTV USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium371/mono.m3u8
+
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Married at First Sight Season 18, Episode 19 [LIFETIME NETWORK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium326/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Tiny House Nation: Memory Lane Season 1, Episode 4 [FYI USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium665/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Denise Richards &amp; Her Wild Things Season 1, Episode 3 [BRAVO USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium307/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",FBI: International Season 4, Episode 14 [CBSNY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -203,6 +209,12 @@ https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://nfsnew.koskoros.ru/nfs/premium52/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Doc Season 1, Episode 9 [FOXNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Deal or No Deal Island Season 2, Episode 10 [NBC USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -228,17 +240,11 @@ https://zekonew.koskoros.ru/zeko/premium766/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium51/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Denise Richards &amp; Her Wild Things Season 1, Episode 3 [BRAVO USA]
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Renovation Aloha Season 2, Episode 7 [HGTV USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium307/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Doc Season 1, Episode 9 [FOXNY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium382/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Wildcard Kitchen Season 2, Episode 5 [THE FOOD NETWORK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -246,41 +252,11 @@ https://zekonew.koskoros.ru/zeko/premium768/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium384/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Renovation Aloha Season 2, Episode 7 [HGTV USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium382/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Curse of Oak Island Season 12, Episode 15 [HISTORY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium322/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Irrational Season 2, Episode 16 [NBCNY USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium769/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Irrational Season 2, Episode 16 [NBC USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium53/mono.m3u8
-
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Joe Schmo Show Season 1, Episode 8 [TBS USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium336/mono.m3u8
-
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Neighborhood Wars Season 7, Episode 24 [A&AMP;E TV USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium302/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Tyler Perry's The Oval Season 6, Episode 10 [BET USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -288,17 +264,17 @@ https://zekonew.koskoros.ru/zeko/premium302/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium306/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",FBI: Most Wanted Season 6, Episode 14 [CBS USA]
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Neighborhood Wars Season 7, Episode 24 [A&AMP;E TV USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium52/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium302/mono.m3u8
 
-#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",FBI: Most Wanted Season 6, Episode 14 [CBSNY USA]
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Curse of Oak Island Season 12, Episode 15 [HISTORY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium322/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Hunting History With Steven Rinella Season 1 [HISTORY USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -312,11 +288,35 @@ https://nfsnew.koskoros.ru/nfs/premium322/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium313/mono.m3u8
 
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",FBI: Most Wanted Season 6, Episode 14 [CBS USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium52/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",FBI: Most Wanted Season 6, Episode 14 [CBSNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium767/mono.m3u8
+
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Customer Wars Season 3 [A&AMP;E TV USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium302/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Irrational Season 2, Episode 16 [NBCNY USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium769/mono.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",The Irrational Season 2, Episode 16 [NBC USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium53/mono.m3u8
 
 #EXTINF:-1 group-title="TV SHOWS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tv-logo.png",Carl Weber's The Family Business Season 5, Episode 10 • Finale [BET USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -366,18 +366,6 @@ https://ddy6new.koskoros.ru/ddy6/premium101/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Liga Revelação : Santa Clara U23 vs Rio Ave U23 [CANAL 11 PORTUGAL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium540/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Liga Revelação : Sporting CP U23 vs Torreense U23 [SPORTING TV]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium716/mono.m3u8
-
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Johor Darul Ta'zim vs Buriram United [ASTRO GRANDSTAND]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -402,6 +390,12 @@ https://ddy6new.koskoros.ru/ddy6/premium102/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium540/mono.m3u8
 
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Liga Revelação : Santa Clara U23 vs Rio Ave U23 [CANAL 11 PORTUGAL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium540/mono.m3u8
+
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Liga Revelação : Portimonense U23 vs Leixões U23 [CANAL 11 PORTUGAL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -414,11 +408,23 @@ https://ddy6new.koskoros.ru/ddy6/premium540/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium540/mono.m3u8
 
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Liga Revelação : Sporting CP U23 vs Torreense U23 [SPORTING TV]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium716/mono.m3u8
+
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Portugal - Liga Revelação : Farense U23 vs Mafra U23 [CANAL 11 PORTUGAL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium540/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russian Cup : Dynamo Makhachkala vs Lokomotiv Moskva [MATCH! TV RUSSIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Bulgaria - Second League : Montana vs Dobrudzha 1919 [DIEMA SPORT BULGARIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -438,11 +444,11 @@ https://windnew.koskoros.ru/wind/premium453/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium580/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russian Cup : Dynamo Makhachkala vs Lokomotiv Moskva [MATCH! TV RUSSIA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Slovenian 1st league : Radomlje vs Bravo [SPORT KLUB 4 SERBIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8
+https://windnew.koskoros.ru/wind/premium104/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Russian Cup : Krasnodar vs Akhmat Grozny [MATCH PREMIER RUSSIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -450,17 +456,23 @@ https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium573/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Slovenian 1st league : Radomlje vs Bravo [SPORT KLUB 4 SERBIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium104/mono.m3u8
-
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Italy - Serie C : Pontedera vs Pescara [SKY SPORT CALCIO IT]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium870/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",South Africa - DStv Premiership : Mamelodi Sundowns vs AmaZulu [SUPERSPORT VARIETY 3]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium418/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",South Africa - DStv Premiership : Stellenbosch vs Orlando Pirates [SUPERSPORT PSL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Barcelona vs Benfica [TNT SPORTS 1 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -478,7 +490,7 @@ https://zekonew.koskoros.ru/zeko/premium435/mono.m3u8
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium290/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Barcelona vs Benfica [SKY SPORT AUSTRIA 1]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -612,18 +624,6 @@ https://windnew.koskoros.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",South Africa - DStv Premiership : Stellenbosch vs Orlando Pirates [SUPERSPORT PSL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",South Africa - DStv Premiership : Mamelodi Sundowns vs AmaZulu [SUPERSPORT VARIETY 3]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium418/mono.m3u8
-
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",CONCACAF Beach Soccer Championship : El Salvador vs Costa Rica [FOX SOCCER PLUS]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -636,11 +636,11 @@ https://ddy6new.koskoros.ru/ddy6/premium756/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium453/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",2025 Concacaf Beach Soccer Championship Mexico vs. Guatemala [FOX SPORTS 2 USA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Netherlands - Eerste Divisie : Volendam vs Telstar [ESPN 1 NL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium379/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Netherlands - Eerste Divisie : Roda JC vs Helmond Sport [ESPN 2 NL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -648,137 +648,11 @@ https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium386/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Netherlands - Eerste Divisie : Volendam vs Telstar [ESPN 1 NL]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",2025 Concacaf Beach Soccer Championship Mexico vs. Guatemala [FOX SPORTS 2 USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium379/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Italy - Serie C : Ternana vs Sestri Levante [SKY SPORT CALCIO IT]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [SKY SPORT AUSTRIA 1]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium559/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [DAZN 2 DE]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [ZIGGO SPORT 4 NL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium396/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [COSMOTE SPORT 1 GREECE]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium622/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [TNT SPORTS 2 UK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [ZIGGO SPORT 1 NL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium393/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [CANAL+ SPORT360 FRANCE]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium464/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [CBS SPORTS NETWORK USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [DAZN ELEVEN 3 PORTUGAL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium457/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [CYTAVISION SPORTS 6 CYPRUS]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium916/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [DIGI SPORT 2 ROMANIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://top2new.koskoros.ru/top2/premium401/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [PRIMA SPORT 2 ROMANIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [ARENA PREMIUM 3 SERBIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [COSMOTE SPORT 5 GREECE]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium626/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [ARENA SPORT 2 CROATIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [TV3 MAX DENMARK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium223/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [MAX SPORT 2 BULGARIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium473/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [SUPERSPORT PSL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [BEIN SPORTS MENA 3]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [5 STARS ISRAEL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Bayer Leverkusen vs Bayern München [TNT SPORTS 1 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -888,23 +762,35 @@ https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium145/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al-Ahli vs Al Rayyan [ASTRO GRANDSTAND]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [SKY SPORT AUSTRIA 1]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium559/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al-Ahli vs Al Rayyan [DIEMA SPORT 3 BULGARIA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [DAZN 2 DE]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium467/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium427/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al-Ahli vs Al Rayyan [SPORT KLUB HD SERBIA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [ZIGGO SPORT 4 NL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium453/mono.m3u8
+https://windnew.koskoros.ru/wind/premium396/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Simulcast [COSMOTE SPORT 1 GREECE]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium622/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Italy - Serie C : Ternana vs Sestri Levante [SKY SPORT CALCIO IT]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium870/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",England - Championship : Sheffield United vs Bristol City [SKY SPORTS FOOTBALL UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -972,11 +858,101 @@ https://dokko1new.koskoros.ru/dokko1/premium95/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium140/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Copa Argentina : Banfield vs Villa Mitre [TYC SPORTS ARGENTINA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [TNT SPORTS 2 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium746/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [ZIGGO SPORT 1 NL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium393/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [CANAL+ SPORT360 FRANCE]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium464/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [CBS SPORTS NETWORK USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [DAZN ELEVEN 3 PORTUGAL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium457/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [CYTAVISION SPORTS 6 CYPRUS]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium916/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [DIGI SPORT 2 ROMANIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://top2new.koskoros.ru/top2/premium401/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [PRIMA SPORT 2 ROMANIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://wikinew.koskoros.ru/wiki/premium584/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [ARENA PREMIUM 3 SERBIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [COSMOTE SPORT 5 GREECE]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium626/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [ARENA SPORT 2 CROATIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [TV3 MAX DENMARK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium223/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [MAX SPORT 2 BULGARIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium473/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [SUPERSPORT PSL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium413/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [BEIN SPORTS MENA 3]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Internazionale vs Feyenoord [5 STARS ISRAEL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Champions League : Liverpool vs PSG [CANAL+ FOOT FRANCE]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1110,11 +1086,11 @@ https://windnew.koskoros.ru/wind/premium61/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium144/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Asia - AFC Champions League Two : Al Taawon vs Tractor Sazi [NOVA SPORT BULGARIA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Copa Argentina : Banfield vs Villa Mitre [TYC SPORTS ARGENTINA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium468/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium746/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al Hilal vs Pakhtakor [ASTRO FOOTBALL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1140,17 +1116,29 @@ https://windnew.koskoros.ru/wind/premium103/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium85/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Torneo Proyección 2025 : Huracán vs. Tigre [ESPN 2 ARGENTINA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al-Ahli vs Al Rayyan [ASTRO GRANDSTAND]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium150/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8
 
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",2025 Concacaf Beach Soccer Championship United States vs Trinidad &amp; Tobago [FOX SPORTS 2 USA]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al-Ahli vs Al Rayyan [DIEMA SPORT 3 BULGARIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8
+https://windnew.koskoros.ru/wind/premium467/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",AFC Champions League Elite : Al-Ahli vs Al Rayyan [SPORT KLUB HD SERBIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium453/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Asia - AFC Champions League Two : Al Taawon vs Tractor Sazi [NOVA SPORT BULGARIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium468/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Copa Libertadores : Alianza Lima vs Deportes Iquique [BEIN SPORTS USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1182,6 +1170,18 @@ https://zekonew.koskoros.ru/zeko/premium81/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium141/mono.m3u8
 
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",2025 Concacaf Beach Soccer Championship United States vs Trinidad &amp; Tobago [FOX SPORTS 2 USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8
+
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Torneo Proyección 2025 : Huracán vs. Tigre [ESPN 2 ARGENTINA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium150/mono.m3u8
+
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",Copa Do Brasil De Futebol : Operário-MT vs Novorizontino-SP [SPORTV BRAZIL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -1205,12 +1205,6 @@ https://ddy6new.koskoros.ru/ddy6/premium746/mono.m3u8
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium756/mono.m3u8
-
-#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",CONCACAF Champions Cup : Cruz Azul vs Seattle Sounders FC [TUDN USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",CONCACAF Champions Cup : Columbus Crew vs Los Angeles FC [FOX SPORTS 1 USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1242,65 +1236,11 @@ https://zekonew.koskoros.ru/zeko/premium39/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium66/mono.m3u8
 
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TENNIS CHANNEL]
+#EXTINF:-1 group-title="SOCCER</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/soccer-logo.png",CONCACAF Champions Cup : Cruz Azul vs Seattle Sounders FC [TUDN USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium40/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [SKY SPORTS TENNIS UK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium46/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TSN1]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium111/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TSN4]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [POLSAT SPORT 1 POLAND]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium47/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [MAX SPORT 1 BULGARIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium472/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [BEIN SPORTS AUSTRALIA 2]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium492/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TV4 TENNIS]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium701/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [SPORT KLUB 1 SERBIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium101/mono.m3u8
-
-#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [SPORT KLUB 2 SERBIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium102/mono.m3u8
+https://windnew.koskoros.ru/wind/premium66/mono.m3u8
 
 #EXTINF:-1 group-title="CRICKET</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/cricket-logo.png",Women IPL : Mumbai Indians W vs Royal Challengers Bangalore W [WILLOW CRICKET]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1386,11 +1326,65 @@ https://ddy6new.koskoros.ru/ddy6/premium492/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium701/mono.m3u8
 
-#EXTINF:-1 group-title="ATHLETICS</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Track+Field SCH '25: N West [SUPERSPORT GRANDSTAND]
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TENNIS CHANNEL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium412/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium40/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [SKY SPORTS TENNIS UK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium46/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TSN1]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium111/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TSN4]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [POLSAT SPORT 1 POLAND]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium47/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [MAX SPORT 1 BULGARIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium472/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [BEIN SPORTS AUSTRALIA 2]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium492/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [TV4 TENNIS]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium701/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [SPORT KLUB 1 SERBIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium101/mono.m3u8
+
+#EXTINF:-1 group-title="TENNIS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/tennis-logo.png",ATP and WTA 1000 Indian Wells [SPORT KLUB 2 SERBIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium102/mono.m3u8
 
 #EXTINF:-1 group-title="WWE</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/wwe-logo.png",WWE NXT [CW USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1416,6 +1410,42 @@ https://ddy6new.koskoros.ru/ddy6/premium418/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium412/mono.m3u8
 
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs New York Yankees [YES USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium763/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs New York Yankees [MASN USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium829/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs New York Yankees [BEIN SPORTS 5 MAX FRANCE]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium495/mono.m3u8
+
+#EXTINF:-1 group-title="ATHLETICS</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Track+Field SCH '25: N West [SUPERSPORT GRANDSTAND]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium412/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : New York Mets vs Houston Astros [MLB NETWORK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium399/mono.m3u8
+
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : New York Mets vs Houston Astros [SPACE CITY HOME NETWORK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium921/mono.m3u8
+
 #EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : New York Yankees vs Pittsburgh Pirates [SPORTSNET PITTSBURGH]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -1440,23 +1470,17 @@ https://zekonew.koskoros.ru/zeko/premium896/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium900/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs New York Yankees [YES USA]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Cleveland Guardians vs Los Angeles Dodgers [SPECTRUM SPORTSNET LA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium763/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium764/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs New York Yankees [MASN USA]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Los Angeles Angels vs Texas Rangers [FANDUEL SPORTS NETWORK WEST]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium829/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Baltimore Orioles vs New York Yankees [BEIN SPORTS 5 MAX FRANCE]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium495/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium906/mono.m3u8
 
 #EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Minnesota Twins vs Toronto Blue Jays [SPORTSNET ONTARIO]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1476,23 +1500,17 @@ https://windnew.koskoros.ru/wind/premium408/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium407/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : New York Mets vs Houston Astros [MLB NETWORK]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Athletics vs San Francisco Giants [MLB NETWORK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium399/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : New York Mets vs Houston Astros [SPACE CITY HOME NETWORK]
+#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Athletics vs San Francisco Giants [NBCS BAY AREA USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium921/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Cleveland Guardians vs Los Angeles Dodgers [SPECTRUM SPORTSNET LA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium764/mono.m3u8
+https://windnew.koskoros.ru/wind/premium753/mono.m3u8
 
 #EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Milwaukee Brewers vs Chicago Cubs [MARQUEE SPORTS NETWORK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1506,35 +1524,11 @@ https://ddy6new.koskoros.ru/ddy6/premium770/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium399/mono.m3u8
 
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Los Angeles Angels vs Texas Rangers [FANDUEL SPORTS NETWORK WEST]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium906/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Athletics vs San Francisco Giants [MLB NETWORK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium399/mono.m3u8
-
-#EXTINF:-1 group-title="BASEBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png",MLB : Athletics vs San Francisco Giants [NBCS BAY AREA USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium753/mono.m3u8
-
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA G-League : Westchester vs Long Island Nets [MSG USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball Horizon Tournament, Championship: Teams TBA [ESPN2 USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",ABA League 2 : KK Vojvodina vs. Kk Cedevita Zagreb Junior [ARENA SPORT 2 SERBIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1542,23 +1536,17 @@ https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium430/mono.m3u8
 
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball Horizon Tournament, Championship: Teams TBA [ESPN2 USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium45/mono.m3u8
+
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Israeli 3x3 Basketball Championship - Women: Final [SPORT 5 PLUS ISRAEL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium145/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Champions League : Petkim Spor Aliaga vs. Basquet Manresa [ARENA SPORT 1 SERBIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Champions League : Petkim Spor Aliaga vs. Basquet Manresa [SPORT 5 LIVE ISRAEL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium146/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Eurocup : Bahcesehir Koleji vs. KK Cedevita Olimpija Ljubljana [MAX SPORT 2 BULGARIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1590,6 +1578,18 @@ https://windnew.koskoros.ru/wind/premium103/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium430/mono.m3u8
 
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Champions League : Petkim Spor Aliaga vs. Basquet Manresa [ARENA SPORT 1 SERBIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium429/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Champions League : Petkim Spor Aliaga vs. Basquet Manresa [SPORT 5 LIVE ISRAEL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium146/mono.m3u8
+
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Champions League : BC AEK Athens vs. S.Oliver Wurzburg [ARENA PREMIUM 2 SERBIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -1601,6 +1601,12 @@ https://ddy6new.koskoros.ru/ddy6/premium135/mono.m3u8
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball : ACC Tournament, First Round: Teams TBA [TSN2]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Eurocup : Hapoel M. Jerusalem vs Gran Canaria [MOVISTAR DEPORTES SPAIN]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1620,23 +1626,11 @@ https://dokko1new.koskoros.ru/dokko1/premium638/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium104/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball : ACC Tournament, First Round: Teams TBA [TSN2]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
-
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Champions League : Nanterre 92 vs. Basketball Nymburk [ARENA SPORT 2 SERBIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball WCC Tournament, Championship: Teams TBA [ESPN2 USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Spain Primera FEB : Amics Castelló vs Movistar Estudiantes [MOVISTAR DEPORTES 3 SPAIN]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1656,11 +1650,35 @@ https://ddy6new.koskoros.ru/ddy6/premium454/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium429/mono.m3u8
 
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Southland Tournament : TBA vs McNeese State [ESPNU USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium316/mono.m3u8
+
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball ACC Tournament, First Round : Teams TBA [TSN2]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",Women's College Basketball WCC Tournament, Championship: Teams TBA [ESPN2 USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball ACC Tournament, First Round: Teams TBA [TSN2]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",NCAA College Basketball : Coverage of the West Coast Conference Championship Match [SKY SPORTS MIX UK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium449/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",NCAA College Basketball : Coverage of the Horizon League Championship Match [ESPN2 USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1674,17 +1692,11 @@ https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium449/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball ACC Tournament, First Round: Teams TBA [TSN2]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",NCAA : West Conference Championship vs Basket-ball NCAA 2024-2025 [BEIN SPORTS 6 MAX FRANCE]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium112/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Southland Tournament : TBA vs McNeese State [ESPNU USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium316/mono.m3u8
+https://ddy6new.koskoros.ru/ddy6/premium496/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",CBB: WCC Championship Game [ESPN2 USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1692,17 +1704,11 @@ https://zekonew.koskoros.ru/zeko/premium316/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",NCAA College Basketball : Coverage of the West Coast Conference Championship Match [SKY SPORTS MIX UK]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball ACC Tournament: California vs Virginia Tech [ACC NETWORK USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium449/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",NCAA : West Conference Championship vs Basket-ball NCAA 2024-2025 [BEIN SPORTS 6 MAX FRANCE]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium496/mono.m3u8
+https://dokko1new.koskoros.ru/dokko1/premium664/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball ACC Tournament: Pittsburgh vs Notre Dame [ACC NETWORK USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1722,11 +1728,11 @@ https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium664/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball ACC Tournament: California vs Virginia Tech [ACC NETWORK USA]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball CAA Tournament, Championship: Teams TBA [CBS SPORTS NETWORK USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium664/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball NEC Tournament: St. Francis vs Central Connecticut State [ESPN2 USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1740,11 +1746,17 @@ https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium44/mono.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball CAA Tournament, Championship: Teams TBA [CBS SPORTS NETWORK USA]
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball America East Tournament: Albany vs Bryant [ESPN2 USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium308/mono.m3u8
+https://windnew.koskoros.ru/wind/premium45/mono.m3u8
+
+#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Big Sky Tournament: TBA vs Montana [ESPN2 USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium45/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Big Sky Tournament, First Semifinal: Teams TBA [ESPNU USA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1781,24 +1793,6 @@ https://dokko1new.koskoros.ru/dokko1/premium628/mono.m3u8
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium144/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball Big Sky Tournament: TBA vs Montana [ESPN2 USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/basketball-logo.png",College Basketball America East Tournament: Albany vs Bryant [ESPN2 USA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 group-title="CYCLING</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Tirreno-Adriatico | Stage 2 Men | Camaiore – Follonica (189km) [TNT SPORTS 1 UK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Milwaukee Bucks vs Indiana Pacers [TNT SPORTS 2 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1854,17 +1848,11 @@ https://windnew.koskoros.ru/wind/premium134/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium98/mono.m3u8
 
-#EXTINF:-1 group-title="FUTSAL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/futsal-logo.png",ARENAS CHAMPIONS LEAGUE New Belgrade [ARENA 1 PREMIUM SERBIA]
+#EXTINF:-1 group-title="CYCLING</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Tirreno-Adriatico | Stage 2 Men | Camaiore – Follonica (189km) [TNT SPORTS 1 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 group-title="DARTS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png",Players Championship 5 - Mattioli Arena, Leicester [PDC TV]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium43/mono.m3u8
+https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8
 
 #EXTINF:-1 group-title="CYCLING</SPAN>" tvg-logo="https://fakeimg.pl/60x40/2d2d2d/ffffff?text=TV",Paris-Nice | Stage 3 Men | Circuit Nevers Magny-Cours - Nevers (TTT, 28.4km) [TNT SPORTS 1 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1896,23 +1884,35 @@ https://ddy6new.koskoros.ru/ddy6/premium525/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium773/mono.m3u8
 
+#EXTINF:-1 group-title="DARTS</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/darts-logo.png",Players Championship 5 - Mattioli Arena, Leicester [PDC TV]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 group-title="FUTSAL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/futsal-logo.png",ARENAS CHAMPIONS LEAGUE New Belgrade [ARENA 1 PREMIUM SERBIA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium134/mono.m3u8
+
 #EXTINF:-1 group-title="FUTSAL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/uefa-logo.png",UEFA Futsal EURO Qualif : Croatia vs. Sweden [MAX SPORT 1 CROATIA HD]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://dokko1new.koskoros.ru/dokko1/premium779/mono.m3u8
 
-#EXTINF:-1 group-title="HORSE RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png",Live racing from Sedgefield, Southwell and Newcastle [SKY SPORTS RACING UK]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium554/mono.m3u8
-
 #EXTINF:-1 group-title="HORSE RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png",Live racing from Cheltenham [RACING TV UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium555/mono.m3u8
+
+#EXTINF:-1 group-title="HORSE RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png",Live racing from Sedgefield, Southwell and Newcastle [SKY SPORTS RACING UK]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.koskoros.ru/wind/premium554/mono.m3u8
 
 #EXTINF:-1 group-title="HORSE RACING</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/horse-logo.png",Live Cheltenham Festival - Day 1 [ITV 1 UK]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1932,18 +1932,6 @@ https://zekonew.koskoros.ru/zeko/premium702/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium707/mono.m3u8
 
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Skelleftea vs Modo [TV4 SPORT LIVE 2]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium704/mono.m3u8
-
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Vaxjo vs Timra [TV4 SPORT LIVE 4]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium706/mono.m3u8
-
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Brynas vs Farjestad BK [TV4 SPORT LIVE 3]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -1956,11 +1944,17 @@ https://zekonew.koskoros.ru/zeko/premium705/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium451/mono.m3u8
 
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Orebro vs Lulea [TV4 SPORT LIVE 1]
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Skelleftea vs Modo [TV4 SPORT LIVE 2]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium703/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium704/mono.m3u8
+
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Vaxjo vs Timra [TV4 SPORT LIVE 4]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium706/mono.m3u8
 
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Malmo vs Rogle [TV4 HOCKEY]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -1968,29 +1962,17 @@ https://zekonew.koskoros.ru/zeko/premium703/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium700/mono.m3u8
 
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",SHL : Orebro vs Lulea [TV4 SPORT LIVE 1]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium703/mono.m3u8
+
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/hockey-logo.png",PWHL : Minnesota at Ottawa [BALLY SPORTS OKLAHOMA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium900/mono.m3u8
-
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Ottawa Senators vs Philadelphia Flyers [NBCS PHILADELPHIA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium777/mono.m3u8
-
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Ottawa Senators vs Philadelphia Flyers [TSN5]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium115/mono.m3u8
-
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Ottawa Senators vs Philadelphia Flyers [RDS CA]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium839/mono.m3u8
 
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Florida Panthers vs Boston Bruins [VODAFONE SPORT]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -2046,11 +2028,23 @@ https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
 
-#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Colorado Avalanche vs Minnesota Wild [ALTITUDE USA]
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Ottawa Senators vs Philadelphia Flyers [NBCS PHILADELPHIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.koskoros.ru/nfs/premium923/mono.m3u8
+https://zekonew.koskoros.ru/zeko/premium777/mono.m3u8
+
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Ottawa Senators vs Philadelphia Flyers [TSN5]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium115/mono.m3u8
+
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Ottawa Senators vs Philadelphia Flyers [RDS CA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.koskoros.ru/dokko1/premium839/mono.m3u8
 
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Vegas Golden Knights vs Pittsburgh Penguins [SPORTSNET PITTSBURGH]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -2094,6 +2088,12 @@ https://windnew.koskoros.ru/wind/premium473/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium289/mono.m3u8
 
+#EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Colorado Avalanche vs Minnesota Wild [ALTITUDE USA]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://nfsnew.koskoros.ru/nfs/premium923/mono.m3u8
+
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Washington Capitals vs Anaheim Ducks [SPORTSNET ONTARIO]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -2136,18 +2136,6 @@ https://dokko1new.koskoros.ru/dokko1/premium839/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.koskoros.ru/ddy6/premium495/mono.m3u8
 
-#EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",Premier Padel, First Round Cancun P2 [SPORT TV6 POUTUGAL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
-
-#EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",A1 Padel: Córdoba Open (T2025): Day 2 [DAZN2 ES]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8
-
 #EXTINF:-1 group-title="ICE HOCKEY</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",NHL : Nashville Predators vs San Jose Sharks [NBCS CALIFORNIA]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
@@ -2159,6 +2147,24 @@ https://windnew.koskoros.ru/wind/premium755/mono.m3u8
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.koskoros.ru/zeko/premium147/mono.m3u8
+
+#EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",A1 Padel: Córdoba Open (T2025): Day 2 [DAZN2 ES]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.koskoros.ru/zeko/premium446/mono.m3u8
+
+#EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",Premier Padel, First Round Cancun P2 [SPORT TV6 POUTUGAL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
+
+#EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",Padel: Cancun P2 - Premier Padel [SPORT TV6 POUTUGAL]
+#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
+#EXTVLCOPT:http-origin=https://dokoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
 
 #EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",Padel: Cancun P2 - Premier Padel [SPORT TV6 POUTUGAL]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
@@ -2177,12 +2183,6 @@ https://windnew.koskoros.ru/wind/premium47/mono.m3u8
 #EXTVLCOPT:http-origin=https://dokoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.koskoros.ru/wind/premium129/mono.m3u8
-
-#EXTINF:-1 group-title="SQUASH</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/squash-logo.png",Padel: Cancun P2 - Premier Padel [SPORT TV6 POUTUGAL]
-#EXTVLCOPT:http-referrer=https://dokoplay.xyz/
-#EXTVLCOPT:http-origin=https://dokoplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.koskoros.ru/ddy6/premium291/mono.m3u8
 
 #EXTINF:-1 group-title="VOLLEYBALL</SPAN>" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/volleyball-logo.png",CEV Champions League : Svg Luneburg vs Warta Zawiercie [POLSAT SPORT 2 POLAND]
 #EXTVLCOPT:http-referrer=https://dokoplay.xyz/
