@@ -1,40 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idwja4H.jpeg" group-title="ARM WRESTLING",East vs West 17
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWQzNTczYTk0NzY4LWYyMWItZjI5NC1iZGVlLTVjODJhZjAz/master.m3u8?md5=lkyShchwEgH-u8lcZuhH8w&expires=1743300000
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ivQli1f.png" group-title="BASKETBALL",LSU Tigers vs. Mississippi State Bulldogs
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1YWE2Yzk3NWYxYmZiLWQ1MmEtMTEyNC1jN2NlLTVkNzRiNzc5/master.m3u8?md5=znnWrS0f-XFA3wazCov7kA&expires=1741831200
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idwja4H.jpeg" group-title="ARM WRESTLING",East vs West 17
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWQzNTczYTk0NzY4LWYyMWItZjI5NC1iZGVlLTVjODJhZjAz/master.m3u8?md5=lkyShchwEgH-u8lcZuhH8w&expires=1743300000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F4wyLy7.png" group-title="BASKETBALL",California Golden Bears vs. Stanford Cardinal
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1OGI0NDhlM2ZhZjVkLWIyYTgtM2Y2NC05MmFlLThlYzIzOTk4/master.m3u8?md5=znnWrS0f-XFA3wazCov7kA&expires=1741831200
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uyd5Fo9.png" group-title="BASKETBALL",Texas Longhorns vs. Vanderbilt Commodores
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1YWE2Yzk3NWYxYmZiLWQ1MmEtMTEyNC1jN2NlLTVkNzRiNzc5/master.m3u8?md5=o3UKp7DqoRpoAd7mWP8H0Q&expires=1741818600
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/phi-tor/1280x720.png" group-title="BASKETBALL",76ers at Raptors
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1ODRhM2VmMmZhNTU2LTljNDktNmVhNC1jZDAwLTY5NDgwMDYx/master.m3u8?md5=grcCsuX1tk7UzYawM_ALSQ&expires=1741832100
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cha-atl/1280x720.png" group-title="BASKETBALL",Hornets at Hawks
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1ZjIxMWVhYWJhYjgxLTUzMzktMGQwNC1jNjAzLTBmMDQ4YmU5/master.m3u8?md5=grcCsuX1tk7UzYawM_ALSQ&expires=1741832100
-
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-bos/1280x720.png" group-title="BASKETBALL",Thunder at Celtics
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1NWUwYjUwOWM3MWY0LTg3YmEtZjkwNC1iYjcwLWYxYTljZTk3/master.m3u8?md5=grcCsuX1tk7UzYawM_ALSQ&expires=1741832100
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/lac-mia/1280x720.png" group-title="BASKETBALL",Clippers at Heat
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -48,23 +36,29 @@ https://director.taihotel.asia/v3/director/VE1NWM2MjUyODhlOGNmLTI2YjgtOTY3NC0xOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=SZ3T1WrHkHCdySqkE_SRzA&expires=1741833900
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8zYq3r.png" group-title="BASKETBALL",TBD vs. McNeese Cowboys
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSUUluz.png" group-title="BASKETBALL",Lamar Cardinals vs. McNeese Cowboys
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1OGI0NDhlM2ZhZjVkLWIyYTgtM2Y2NC05MmFlLThlYzIzOTk4/master.m3u8?md5=keAjibhq6o6_-zp1Ujrn_g&expires=1741824000
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4wyLy7.png" group-title="BASKETBALL",California Golden Bears vs. Stanford Cardinal
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/cha-atl/1280x720.png" group-title="BASKETBALL",Hornets at Hawks
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1OGI0NDhlM2ZhZjVkLWIyYTgtM2Y2NC05MmFlLThlYzIzOTk4/master.m3u8?md5=znnWrS0f-XFA3wazCov7kA&expires=1741831200
+https://director.taihotel.asia/v3/director/VE1ZjIxMWVhYWJhYjgxLTUzMzktMGQwNC1jNjAzLTBmMDQ4YmU5/master.m3u8?md5=grcCsuX1tk7UzYawM_ALSQ&expires=1741832100
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PoOCNmp.png" group-title="BASKETBALL",Notre Dame Fighting Irish vs. North Carolina Tar Heels
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/phi-tor/1280x720.png" group-title="BASKETBALL",76ers at Raptors
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1ZjIyMTE5ZjllNjRkLWYxNWEtMTg5NC02ZTE2LWNiYmQxMDZm/master.m3u8?md5=h-Q57nojE1Yr54dvmynF9A&expires=1741815000
+https://director.taihotel.asia/v3/director/VE1ODRhM2VmMmZhNTU2LTljNDktNmVhNC1jZDAwLTY5NDgwMDYx/master.m3u8?md5=grcCsuX1tk7UzYawM_ALSQ&expires=1741832100
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/okc-bos/1280x720.png" group-title="BASKETBALL",Thunder at Celtics
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1NWUwYjUwOWM3MWY0LTg3YmEtZjkwNC1iYjcwLWYxYTljZTk3/master.m3u8?md5=grcCsuX1tk7UzYawM_ALSQ&expires=1741832100
 
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/uta-mem/1280x720.png" group-title="BASKETBALL",Jazz at Grizzlies
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -84,7 +78,7 @@ https://director.taihotel.asia/v3/director/VE1NTM1YWRkNDAwNjYzLWI3MjktMjBlNC1kMD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1YWE2Yzk3NWYxYmZiLWQ1MmEtMTEyNC1jN2NlLTVkNzRiNzc5/master.m3u8?md5=JG0CNSveU6nz4V80wPTxlw&expires=1741840200
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FJ7BeuU.png" group-title="BASKETBALL",TBD vs. Kansas Jayhawks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4K3QjOl.png" group-title="BASKETBALL",UCF Knights vs. Kansas Jayhawks
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -96,19 +90,19 @@ https://director.taihotel.asia/v3/director/VE1OGI0NDhlM2ZhZjVkLWIyYTgtM2Y2NC05Mm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1MDk5ODQzMzg1ZjBhLTdmMjgtY2Y3NC00YzY5LTgzOWNjZDAz/master.m3u8?md5=JG0CNSveU6nz4V80wPTxlw&expires=1741840200
 
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/nyk-por/1280x720.png" group-title="BASKETBALL",Knicks at Trail Blazers
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1Y2I4M2RiNDI1OTI1LThmMmEtNzZkNC0zZDQ2LTIyNTIxYjE3/master.m3u8?md5=PW8aRLAyyWkjkOwVUFoXpQ&expires=1741841100
-
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-den/1280x720.png" group-title="BASKETBALL",Timberwolves at Nuggets
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1NWUwYjUwOWM3MWY0LTg3YmEtZjkwNC1iYjcwLWYxYTljZTk3/master.m3u8?md5=PW8aRLAyyWkjkOwVUFoXpQ&expires=1741841100
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vtSsRjw.png" group-title="BASKETBALL",TBD vs. TBD
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/nyk-por/1280x720.png" group-title="BASKETBALL",Knicks at Trail Blazers
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1Y2I4M2RiNDI1OTI1LThmMmEtNzZkNC0zZDQ2LTIyNTIxYjE3/master.m3u8?md5=PW8aRLAyyWkjkOwVUFoXpQ&expires=1741841100
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mB0PBhs.png" group-title="BASKETBALL",Montana Grizzlies vs. Northern Colorado Bears
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -180,17 +174,17 @@ https://director.taihotel.asia/v3/director/VE1ZjAyZWVhMjhkMmNhLWNkOWEtNzBmNC1lN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=o_Khxjfz9ZaAhBWEEN8f9w&expires=1741820700
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb1HQF5.png" group-title="MLB",Los Angeles Angels vs. Chicago White Sox
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.taihotel.asia/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=o_Khxjfz9ZaAhBWEEN8f9w&expires=1741820700
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVcUB6P.png" group-title="MLB",San Diego Padres vs. Colorado Rockies
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.taihotel.asia/v3/director/VE1NjkxMmNmNWU0OGZmLTZlNDgtZTk0NC05ZjE1LTcwNTc0MTI4/master.m3u8?md5=rYIqo-uo3dGSLBxk4W8t0Q&expires=1741821000
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vb1HQF5.png" group-title="MLB",Los Angeles Angels vs. Chicago White Sox
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.taihotel.asia/v3/director/VE1ZjA3N2MwNjE0OWVkLTljZDgtMzAxNC05OTA4LTdhZTgzNDk5/master.m3u8?md5=o_Khxjfz9ZaAhBWEEN8f9w&expires=1741820700
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PKhT31C.png" group-title="MOTORSPORTS",F1: Australian Grand Prix (Practice 1, F1TV)
 #EXTVLCOPT:http-origin=https://ppv.land
@@ -258,6 +252,12 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZGFmZjU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=euc36-AdOyuveI0GERYv6Q&expires=1741834800
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
+#EXTVLCOPT:http-origin=https://ppv.land
+#EXTVLCOPT:http-referrer=https://ppv.land/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=eMBdX-vWp1nugEHjRc47nw&expires=1742094000
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOQVo8f.png" group-title="WRESTLING",TNA Impact!
 #EXTVLCOPT:http-origin=https://ppv.land
 #EXTVLCOPT:http-referrer=https://ppv.land/
@@ -269,12 +269,6 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Y2MyYTFh
 #EXTVLCOPT:http-referrer=https://ppv.land/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=spFTmDBy4mOTAcwNE4dp8A&expires=1741989600
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3OPAo3.jpeg" group-title="WRESTLING",AEW Collision
-#EXTVLCOPT:http-origin=https://ppv.land
-#EXTVLCOPT:http-referrer=https://ppv.land/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=eMBdX-vWp1nugEHjRc47nw&expires=1742094000
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJ6395b.jpeg" group-title="24/7 STREAMS",ESPN
 #EXTVLCOPT:http-origin=https://ppv.land
