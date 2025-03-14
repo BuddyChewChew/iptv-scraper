@@ -1,43 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Cleveland Cavaliers vs Boston Celtics [ESPN BR]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium81/mono.m3u8
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=EVENT&font=roboto" group-title="NBA",10:00 AM PHT NBA: Warriors vs Kings (03/14/25)
+#EXTVLCOPT:http-referrer=https://streamtp3.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://ca8s9.pricesaskeloadsc.com:443/disney12/index.m3u8?token=6ec1bfeaf731bc19281b80ecfc3a43c01c58ea01-b5-1741950755-1741918355
 
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Cleveland Cavaliers vs Boston Celtics [ESPN 2 ARGENTINA]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.koskoros.ru/wind/premium150/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Portland Trail Blazers vs Brooklyn Nets [YES USA]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium763/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Indiana Pacers vs Miami Heat [BALLY SPORTS SUN]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium905/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Toronto Raptors vs Chicago Bulls [RDS CA]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.koskoros.ru/dokko1/premium839/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Toronto Raptors vs Chicago Bulls [TSN4]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium114/mono.m3u8
-
-#EXTINF:-1 group-title="BASKETBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png",NBA : Toronto Raptors vs Chicago Bulls [TSN3]
-#EXTVLCOPT:http-referrer=https://pkpakiplay.xyz/
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.koskoros.ru/zeko/premium113/mono.m3u8
+#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=EVENT&font=roboto" group-title="NBA",10:00 AM PHT NBA: Warriors vs Kings (03/14/25)
+#EXTVLCOPT:http-referrer=https://streamtp3.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://u4c5a.pricesaskeloadsc.com:443/nba5/index.m3u8?token=76f9b11429a13f59b9eb435430ed5608987a9b0b-08-1741950756-1741918356
