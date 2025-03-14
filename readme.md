@@ -8,6 +8,7 @@
 - ```https://aesport-scraper.vercel.app/aesport```
 - ```https://nizarstream-scraper.vercel.app/nizarstream```
 - ```https://streameast-scraper.vercel.app/streameast```
+- ```https://sports-stream-seven.vercel.app/dz4```
 ---
 ### Stremio Addon
 - ```https://moveonjoy-stremio.vercel.app/```
